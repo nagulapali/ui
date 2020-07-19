@@ -1,0 +1,34 @@
+.layout-height {
+    height: inherit;
+  }  
+.header-height{
+  flex-flow: nowrap; 
+  height: 64px;
+}
+.site-layout .header-footer-background {
+  background: white;  
+}
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+.logo g {
+  fill: #e4c38d;
+ }
+
+a:visited {
+  color: #00688c;
+}
+a:not(.oj-disabled) {
+  cursor: pointer;
+}
+
+a {
+  color: #00688c;
+  line-height: inherit;
+  text-decoration: none;
+}
+
+
+
+  
